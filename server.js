@@ -6,7 +6,7 @@ I declare that this assignment is my own work in accordance with Seneca  Academi
 Name: Gurpeet Singh
 Student ID: 166395210
 Date: 2 June 2023  
-Cyclic Web App URL:  https://troubled-ox-snaps.cyclic.app
+Cyclic Web App URL:   https://joyous-gold-betta.cyclic.app
 GitHub Repository URL: https://github.com/gurpreet-singh0/web322-app.git
 
 ********************************************************************************/ 
